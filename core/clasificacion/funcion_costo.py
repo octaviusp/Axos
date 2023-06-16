@@ -1,0 +1,1 @@
+# Funcion costo para clasificacion

@@ -1,0 +1,1 @@
+# Aplicar alpha a un parametro W

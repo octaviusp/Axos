@@ -1,0 +1,1 @@
+# Regresion lineal con que datos queremos entrenar

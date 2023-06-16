@@ -1,0 +1,1 @@
+# Crear la arquitectura mas comun en redes neuronales, secuencial, la entrada de X es la salida de X-1

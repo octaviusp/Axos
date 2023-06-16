@@ -1,0 +1,1 @@
+# Funcion de costo de regresion lineal
